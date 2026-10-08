@@ -12,5 +12,5 @@ The simulation is in python, so Python, Jupyter Notebook, or Google Colab is nee
 matplotlib and numpy should be installed in the code
 
 ## Output:
-- When the code is run, a chart with time, velocity, altitude, and horizontal distance should display all of the values in 10 second interverals from when the rocket launches to when it crashes or lands.
+- When the code is run, a chart with time, velocity, altitude, and horizontal distance should display all of the values in 10 second intervals from when the rocket launches to when it crashes or lands.
 - Six graphs will be printed as well. These graphs compare time with the horizontal velocity, vertical velocity, horizontal acceleration, vertical acceleration, altitude, and distance.
