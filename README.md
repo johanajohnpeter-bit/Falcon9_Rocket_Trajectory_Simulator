@@ -1,6 +1,6 @@
 # Rocket Trajectory Simulator
 - This is a 2D rocket trajectory simulator based off of SpaceX Falcon 9 Stage 1.
-- It includes, drag, decreasing mass, and a changing angle during the rocket's trajectory. This code is meant to model a rocket's trajectory using simple physics equations and algebra, without having to rely on calculus. 
+- It includes, drag, decreasing mass, and a changing angle during the rocket's trajectory. This code is meant to model a rocket's trajectory using vector mathematics and physics equations. 
 
 ## How The Physics Works:
 - Assumes constant gravity(9.8 m/s^2 downwards)
